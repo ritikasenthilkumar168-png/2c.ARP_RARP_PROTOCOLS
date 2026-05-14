@@ -127,6 +127,7 @@ if __name__ == "__main__":
 ## OUTPUT
 <img width="755" height="247" alt="Screenshot 2026-05-14 231153" src="https://github.com/user-attachments/assets/b62107db-e241-49ac-b540-37aa14ef2f33" />
 <img width="670" height="222" alt="Screenshot 2026-05-14 231205" src="https://github.com/user-attachments/assets/46bd5a51-2ba3-49cb-8d03-a271864c36e9" />
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
